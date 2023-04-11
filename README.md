@@ -7,4 +7,6 @@ analyzing government foundation sheets
 
 # ref
 
+日経プレミアムシリーズ 国費解剖
+
 行政事業レビュー - 基金シート https://www.gyoukaku.go.jp/review/kikin/index.html
