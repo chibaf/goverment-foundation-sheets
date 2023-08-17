@@ -1,4 +1,4 @@
-# goverment-foundstion-sheets
+# goverment-foundation-sheets
 analyzing government foundation sheets
 
 4shusshi.xlsx→ read_xlsx_sheet-2023-04-10.nb →4shusshi.csv-> read_csv_sheet-2023-04-10.py
